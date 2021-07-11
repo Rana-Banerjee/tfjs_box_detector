@@ -1,0 +1,1 @@
+{"version":3,"sources":["/home/rana/TFJS-Box-detection/src/styles.css","main.0946d362.chunk.css"],"names":[],"mappings":"AAAE,MACE,cAAA,CACA,KAAA,CACA,MCCF","file":"main.0946d362.chunk.css","sourcesContent":["  .size {\n    position: fixed;\n    top: 0;\n    left: 0;\n  }","  .size {\n    position: fixed;\n    top: 0;\n    left: 0;\n  }\n"]}
