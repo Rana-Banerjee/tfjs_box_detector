@@ -1,5 +1,5 @@
 # Tensorflowjs client side web app for detecting boxes
-Tensorflow js model to dtect boxes running on client side (webapp)
+Tensorflow js model deployed on client side web app to detect cargo boxes at real time.
 
 # Steps to Execute
 1. From the base folder(The one contatining package.json) run the following command to install the necessary node packages: 
