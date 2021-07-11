@@ -8,11 +8,7 @@ tf.setBackend('webgl');
 const threshold = 0.80;
 
 async function load_model() {
-    // It's possible to load the model locally or from a repo
-    // You can choose whatever IP and PORT you want in the "http://127.0.0.1:8080/model.json" just set it before in your https server
-    //const model = await loadGraphModel("http://127.0.0.1:8081/model.json");
-    const model = await loadGraphModel("http://localhost:8082/model.json");
-    //const model = await loadGraphModel("https://raw.githubusercontent.com/hugozanini/TFJS-object-detection/master/models/kangaroo-detector/model.json");
+    const model = await loadGraphModel("https://raw.githubusercontent.com/Rana-Banerjee/tfjs_box_detector/main/models/tfjs_model_ckpt8/model.json");
     return model;
   }
 
