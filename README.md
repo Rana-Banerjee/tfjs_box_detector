@@ -1,4 +1,4 @@
-# tfjs_box_detector
+# Tensorflowjs client side web app for detecting boxes
 Tensorflow js model to dtect boxes running on client side (webapp)
 
 # Steps to Execute
